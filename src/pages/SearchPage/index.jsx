@@ -18,7 +18,7 @@ export default function SearchPage() {
             </S.subRight>
             
             <S.subRight1>
-                <span>Desenvolvido por Breno Brito.</span>
+                <span>Dessenvolvido por Breno Brito.</span>
             </S.subRight1>
             
         </S.Right>
