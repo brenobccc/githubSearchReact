@@ -13,7 +13,7 @@ export default function SearchPage() {
         <S.Right>
             <S.subRight>
                 <img src={Logo}></img>
-                <h1>Pesquise informações de repositórios de forma fácil e intuitiva!</h1>
+                <h1>Pesqsuise informações de repositórios de forma fácil e intuitiva!</h1>
 
             </S.subRight>
             
